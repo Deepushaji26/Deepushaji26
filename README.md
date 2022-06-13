@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepushaji26
 - 👀 I’m interested in ... Data Science and Web development 
-- 🌱 I’m currently learning ... Python, Pandas, Plotly, HTML,CSS and JS
+- 🌱 I’m currently learning ... Python, Pandas, Numpy, Plotly, HTML, CSS and JS
 - 💞️ I’m looking to collaborate on ...Challenging Project
 - 📫 How to reach me ...deepushaji14@gmail.com
 
