@@ -1,0 +1,54 @@
+body {
+    padding:0px;
+    margin: 100px;
+    background-color:#92a8d1;
+}
+h1 {
+    text-align: center;
+    color: rgb(26, 21, 25) !important;
+}
+
+img{
+    border-radius:50%;
+}
+
+
+#fm{
+    border-style: solid;
+    border-color:grey;
+    margin:0px;
+}
+
+
+div.fom
+{
+    display: block;
+    text-align: center;
+}
+
+fom
+{
+display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    
+}
+ 
+ul {
+    display:flex;
+    list-style-type: none;
+    padding: 10px;
+    background-color: black;
+    text-color:white;
+}
+
+ul a {
+    margin-right: 10px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
