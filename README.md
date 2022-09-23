@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepushaji
 - 👀 I’m interested in ... Data Science and Web development 
-- 🌱 I’m currently learning ... Python, Pandas, Numpy, Plotly, HTML, CSS and JS
+- 🌱 I’m currently learning ... Python, Pandas, Numpy, Plotly, HTML, CSS and JS. Now i am focusing on AI/ML and PowerBI
 - 💞️ I’m looking to collaborate on ...Challenging Project
 - 📫 How to reach me ...deepushaji14@gmail.com
 
